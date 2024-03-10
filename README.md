@@ -10,6 +10,6 @@ Here are some ideas to get you started: -->
 #
 🔭 One of my recent achievements is a project for creating a gamified Kotlin application to enhance citizen engagement and understanding of governance principles in Kenya, and hence they can contribute meaningfully from a knowledgeable perspective. The application also has chatbot functionality to enable users to prompt questions they are curious about concerning the Constitution and getting answers according to the Constitution. 
 
-### 😄 I enjoy exploring new concepts and am currently diving into Flutter for cross-platform projects.
+<!--### 😄 I enjoy exploring new concepts and am currently diving into Flutter for cross-platform projects.-->
 
 
